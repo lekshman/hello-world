@@ -8,8 +8,5 @@ Edited directly on the web
 
 This is a further edit on the cloud
 
-<<<<<<< HEAD
 THis edit at 10:56 AM
-=======
 25 May 2022 edit at 10:49 AM
->>>>>>> 7f232b4a179295dce51d1ba5a2dc4bc7a2f9ee82
