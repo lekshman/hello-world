@@ -1,0 +1,2 @@
+dir_one/one.txt
+dir_two/two.txt
