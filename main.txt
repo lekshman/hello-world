@@ -1,2 +1,3 @@
 dir_one/one.txt
 dir_two/two.txt
+dir_three/three.txt
